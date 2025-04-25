@@ -3,7 +3,8 @@
 Currency Converter or Currency Exchange is mini project coded in Java Programming Language.
 This simple application provide web-based interface for exchange/convert money from one currency(say $) to another currency(say €).
 
-Complete source code of Currency Exchange Application can download from link below:
+Complete source code of Currency Exchange Application can download from link below: 
+https://codeload.github.com/codwithjaison/CurrencyConverter/zip/refs/heads/main
 
 In this mini project Report and Documentation are not available.
 
@@ -18,10 +19,6 @@ Such application can be used by any user, but it is mainly useful for business, 
 
 In this currency converter app, users are provided with an option to select the type of conversion, i.e. from “this” currency to “that” currency. This simple feature allows users to enter amount to be converted (say currency in Dollars), and display the converted amount (say currency in Euro).
 
-
-
 visit more projects - https://github.com/codwithjaison
-
-demo- 
 
 
